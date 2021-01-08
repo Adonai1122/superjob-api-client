@@ -3,7 +3,8 @@
 class SuperjobAPI
 {
     const API_URI = 'https://api.superjob.ru/2.0/';
-    const OAUTH_URL = 'https://api.superjob.ru/2.0/oauth2/';
+ GET 
+    const OAUTH_URL = 'https://api.superjob.ru/2.0/oauth2/refresh_token/?refresh_token=r.000000122551478.97a57fc535619de5d05d9c4ee10e6c5a57358e2704dfb6.50526430.1ddaccc801c0528625af81d7b0653b6f35e67b92&client_id=87&client_secret=346767670b9b34808807380cc9c09ee6^Cdaccc801c0528625af81d7b0653b6f35e67b92&client_id=87&client_secret=346767670b9b34808807380cc9c0NK@DESKTOP-T21UB5P MINGW64^C&client_id=87&client_secret=346767670b9b34808807380cc9c09ee6^Cdaccc801c0528625af81d7b0653b6f35e67b92&client_id=87&client_secret=346767 GET https://api.superjob.ru/2.0/oauth2/refresh_token/?refresh_token=r.000000122551478.97a57fc535619de5d05d9c4ee10e6c5a57358e2704dfb6.50526430.1ddaccc801c0528625af81d7b0653b6f35e67b92&client_id=87&client_secret=346767670b9b34808807380cc9c09ee6^Cdaccc801c0528625af81d7b0653b6f35e67b92&client_id=87&client_secret=346767670b9b34808807380cc9c0NK@DESKTOP-T21UB5P MINGW64^C&client_id=87&client_secret=346767670b9b34808807380cc9c09ee6^Cdaccc801c0528625af81d7b0653b6f35e67b92&client_id=87&client_secret=346767';
 
     const OAUTH_AUTHORIZE_URL = 'http://www.superjob.ru/authorize';
 
